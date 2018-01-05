@@ -1,0 +1,96 @@
+
+
+body{
+	background-color:#f4f4f4;
+	color:#555555;
+	font-family:Arial,Helvetica;
+	font-size:16px;
+	font-weight:normal;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+
+}
+
+.box-1{
+	background-color:#333;
+	color:#fff;
+
+}
+
+.box-1 h3{
+	font-family:Tahoma;
+	font-weight:800;
+	font-style:bold;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing:15%;
+	word-spacing:3px;
+}
+
+.namesyo{
+
+	border:5px red solid;
+	border-bottom-width:20px;
+	border-top-style:dashed;
+
+	padding:20px;
+
+	margin:20px;
+
+
+}
+
+.box-2{
+	border:3px dotted #ccc;
+	padding:20px;
+	margin:20px;
+}
+
+.list{
+	border:1px #ccc solid;
+	padding:10px;
+	border-radius:15px;
+	text-align:center;
+}
+
+.list ul{
+	padding:0;
+	list-style:square;
+	list-style:none;
+}
+
+.list ol{
+	padding:0;
+	list-style:square;
+	list-style:none;
+
+}
+
+.list li{
+	padding-bottom:9px;
+	border-bottom:dotted 1px #333;
+	list-style-image: url(http://icons.iconarchive.com/icons/royalflushxx/systematrix/16/MSN-icon.png);
+
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+
+a:hover{
+	color:green;
+}
+
+a:active{
+	color:red;
+}
+
+a:visted{
+	color:yellow;
+}
